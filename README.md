@@ -1,4 +1,4 @@
-# Bachelorsproject
+# Bachelor's project
 ## Probing Dark Matter with the IceCube Upgrade
 
 To run these notebooks one needs:
